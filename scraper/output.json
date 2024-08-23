@@ -1,0 +1,40 @@
+[
+    {
+        "category": "Oversized Tshirts",
+        "url": "https://nobero.com/collections/men-oversized-tshirts/products/oversized-tshirt-1",
+        "title": "Oversized T-Shirt 1",
+        "price": 1499,
+        "MRP": 1999,
+        "last_7_day_sale": 100,
+        "available_skus": [
+            {"color": "Red", "size": ["S", "M", "L"]},
+            {"color": "Blue", "size": ["S", "M", "L"]}
+        ],
+        "fit": "Regular Fit",
+        "fabric": "Cotton",
+        "neck": "Round Neck",
+        "sleeve": "Short Sleeve",
+        "pattern": "Solid",
+        "length": "Regular",
+        "description": "This is an oversized t-shirt made of premium cotton fabric."
+    },
+    {
+        "category": "Tshirts",
+        "url": "https://nobero.com/collections/men-tshirts/products/tshirt-2",
+        "title": "T-Shirt 2",
+        "price": 1299,
+        "MRP": 1599,
+        "last_7_day_sale": 80,
+        "available_skus": [
+            {"color": "Black", "size": ["S", "M", "L", "XL"]},
+            {"color": "White", "size": ["S", "M", "L", "XL"]}
+        ],
+        "fit": "Slim Fit",
+        "fabric": "Polyester",
+        "neck": "V-Neck",
+        "sleeve": "Short Sleeve",
+        "pattern": "Striped",
+        "length": "Regular",
+        "description": "A stylish t-shirt with a slim fit and V-neck design."
+    }
+]
